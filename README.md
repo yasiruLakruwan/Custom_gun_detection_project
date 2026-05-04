@@ -1,0 +1,1 @@
+In this project I work on custom gun detection project using kaggle and pytorch with dvc
